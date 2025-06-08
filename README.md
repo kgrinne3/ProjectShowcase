@@ -16,6 +16,6 @@ _Source code is available upon request._
 	- **Description:** Implement a GUI (Graphical User Interface) for a property management group to automate their property ledger while still allowing admin access to the current ledger implementation. Please see the requirements documentation for more information.  
  - Distributed Software Systems (SER 321)
 	- **Project:** Peer-to-Peer Chat Room (Activity 1)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distributed Library System (Activity 2)
+&emsp;&emsp;&emsp;&nbsp; Distributed Library System (Activity 2)
 	- **Description:** (Activity 1) A basic Peer-to-Peer chat room with no leader.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Activity 2) A distributed inventory tracking library system for a variable number of locations.
+&emsp;&emsp;&emsp;&emsp;&emsp;(Activity 2) A distributed inventory tracking library system for a variable number of locations.

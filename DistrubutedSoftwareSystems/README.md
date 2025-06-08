@@ -2,7 +2,7 @@
 
 ## Part 1 - Peer-to-Peer Chat Room
 
-The requirements for this assignment can be found in the [Assignment5](/ProvidedDocumentation/Assignment5.pdf) document, and a description of the activity implementation and usage can be found in the [Activity README](/ProvidedDocumentation/Activity1_README.md).
+The requirements for this assignment can be found in the [Assignment5](./ProvidedDocumentation/Assignment5.pdf) document, and a description of the activity implementation and usage can be found in the [Activity README](./ProvidedDocumentation/Activity1_README.md).
 
 [![DEMO VIDEO](http://img.youtube.com/vi/zI7MOCaFqFA/0.jpg)](http://www.youtube.com/watch?v=zI7MOCaFqFA)
 
@@ -10,7 +10,7 @@ The requirements for this assignment can be found in the [Assignment5](/Provided
 
 ## Part 2 - Distributed Library System
 
-The requirements for this assignment can be found in the [Assignment5](/ProvidedDocumentation/Assignment5.pdf) document, and a description of the activity implementation and usage can be found in the [Activity README](/ProvidedDocumentation/Activity2_README.md).
+The requirements for this assignment can be found in the [Assignment5](./ProvidedDocumentation/Assignment5.pdf) document, and a description of the activity implementation and usage can be found in the [Activity README](./ProvidedDocumentation/Activity2_README.md).
 
 [![DEMO VIDEO](http://img.youtube.com/vi/zq-BVZHCXkg/0.jpg)](http://www.youtube.com/watch?v=zq-BVZHCXkg)
 

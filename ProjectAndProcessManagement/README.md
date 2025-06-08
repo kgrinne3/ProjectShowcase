@@ -1,6 +1,6 @@
 # Excel Property Management Application
 
-The requirements for this assignment can be found in the [Charter](/ProvidedDocumentation/SER416ClassProjectCharter.pdf), [UI specifications](/ProvidedDocumentation/Visio-PropMgmntApplicationUserInterface.pdf), and the [Submission Details](/ProvidedDocumentation/SubmissionDetails.txt).  
+The requirements for this assignment can be found in the [Charter](./ProvidedDocumentation/SER416ClassProjectCharter.pdf), [UI specifications](./ProvidedDocumentation/Visio-PropMgmntApplicationUserInterface.pdf), and the [Submission Details](./ProvidedDocumentation/SubmissionDetails.txt).  
 
 [![DEMO VIDEO](http://img.youtube.com/vi/NPXNPt-zVzI/0.jpg)](http://www.youtube.com/watch?v=NPXNPt-zVzI)
 
