@@ -18,4 +18,4 @@ _Source code is available upon request._
 	- **Project:** Peer-to-Peer Chat Room (Activity 1)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distributed Library System (Activity 2)
 	- **Description:** (Activity 1) A basic Peer-to-Peer chat room with no leader.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Activity 2) A distributed inventory tracking library system for a variable number of locations with individual inventories.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Activity 2) A distributed inventory tracking library system for a variable number of locations.
