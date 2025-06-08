@@ -14,4 +14,9 @@ Source code is available upon request.
  - Project and Process Management (SER 416) 
 	- **Project:** Excel Property Management Application
 	- **Description:** Implement a GUI (Graphical User Interface) for a property management group to automate their property ledger while still allowing admin access to the current ledger implementation. Please see the requirements documentation for more information.  
- - 
+ - Distributed Software Systems (SER 321)
+	- **Project:** Peer-to-Peer Chat Room (Activity 1)  
+	- **Description:** A basic Peer-to-Peer chat room with no leader.  
+	
+	- **Project:** Distributed Library System (Activity 2)  
+	- **Description:** A distributed library system that facilitates inventory tracking for a variable number of locations with individual inventories. 
