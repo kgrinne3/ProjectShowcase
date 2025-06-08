@@ -1,0 +1,25 @@
+For SER416, there is no final – in its place, there is a final / class project .   
+
+This is the scenario we are simulating for the purposes of this class.
+
+You are the project manager from your company assigned to develop a Property Management software for a company named Excel Property Management (EPM).    Sparky is the name of its owner.    The course coordinator for this class Vijay Suthar is also the EPM’s relationship manager at your company and has got approval from management to proceed with this project to complete phase 0 as evidenced by the relationship manager completing the Project charter, and obtaining the current "tool" being used by EPM (see links at bottom of this page).    You have been assigned as your company's the project manager.   
+
+As you will learn in this class, project management involves taking this charter and filling out additional detail needed for ensuring successful software delivery to the customer.   As a project evolves, several documents are typically completed by the project manager with help from the engineering team assigned to ensure successful completion.   They are listed below.
+
+Project Scope
+UML Use Case diagram
+Project Requirements
+Project WBS
+Gantt Chart (Schedule)
+Cost Estimate
+Risk Register
+Risk Probability / Impact matrix.
+Some of these assignments do have some amount of ambiguity in this scenario.  The idea here is to give you a glimpse into a higher level and typically more ambiguous world than pure software development.    Make reasonable assumptions (and do note them) as you complete those documents.   These assignments are counted as homework assignments, NOT AS THE FINAL/CLASS PROJECT. 
+
+EPM would like two major deliverables, Phase 0, which would be an excel and access database solution and Phase 1, being a web-based solution.   
+
+For Phase 0, you will wear multiple hats (roles) as you will be both the PM and the engineer.   You will deliver Phase 0 code and database as the final / class project.    You will not deliver code on Phase 1 - however you will include Phase 1 in the project related HW assignments listed above that will be used near the end of Phase 0, to get management approval for Phase 1.   
+
+For the purposes of the project - you can make changes to the spreadsheet, add/design additional databases, so long as the requirements are met and all functionality required.
+
+Highly recommend you start on the project as early as possible.   We will cover VBA (visual base coding for excel) and some access database VBA programming in Modules 3 and 4 that will help you complete Phase 0.   There are multiple ways to deploy a web-based solution required in Phase 1 (you are NOT required to provide the solution but provide the planning for it including cost, schedule, etc (HW assignments listed above) ) for both phases.    
